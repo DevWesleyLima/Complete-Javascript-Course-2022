@@ -1,4 +1,4 @@
-function checkTriangleType (x, y, z) {
+function checkTriangleType(x, y, z) {
     if(x == y && x == z && y == z)
     {
         return console.log(`Equilateral triangle`);
