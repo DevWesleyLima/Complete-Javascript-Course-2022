@@ -1,4 +1,3 @@
-
 function Calculations(x, y) {
     console.log(
           `Sum: ` + (x + y) + `\n`

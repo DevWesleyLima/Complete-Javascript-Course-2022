@@ -1,4 +1,4 @@
-let numbers = [1,2,3,4,5,6,7,8,9,10,111,222,333,444]
+let numbers = [1,2,3,4,5,6,7,8,9,10,111,222,333,444];
 
 function getEvenOdd(numbers)
 {

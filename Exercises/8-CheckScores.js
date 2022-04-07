@@ -1,4 +1,4 @@
-let strScores = "10, 20, 20, 08, 25, 03, 0, 30, 01"
+let strScores = "10, 20, 20, 08, 25, 03, 0, 30, 01";
 
 function checkScores(strScores)
 {

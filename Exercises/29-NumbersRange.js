@@ -1,4 +1,4 @@
-let numbers = [1,2,3,4,5,10,11,12,13,14,15,20,25,44,66,88,105]
+let numbers = [1,2,3,4,5,10,11,12,13,14,15,20,25,44,66,88,105];
 
 
 function getNumbersRange(numbers)

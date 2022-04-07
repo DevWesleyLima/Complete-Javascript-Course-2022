@@ -1,4 +1,3 @@
-//Simple interest
 function getSimpleInterest(capital, rate, time)
 {    
     let amount = capital + ((capital * (rate / 100)) * time);
@@ -9,7 +8,6 @@ getSimpleInterest(100, 10, 2);
 
 console.log(``);
 
-//Compound interest
 function getCompoundInterest(capital, rate, time)
 {    
     let amount = (capital * Math.pow((1 + (rate / 100)), time));
